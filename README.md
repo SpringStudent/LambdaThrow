@@ -1,6 +1,6 @@
 # What's LambdaThrow
 
-java throws exceptions using lambda,Parameter verification can be performed with Swagger's APIModelProperty annoation,really sweet.
+java throws exceptions using lambda,Parameter verification can be performed with Swagger's ApiModelProperty annoation,really sweet.
 
 ### Env Require
 
