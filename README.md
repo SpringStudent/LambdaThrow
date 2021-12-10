@@ -1,13 +1,13 @@
-# LambdaThrow
+# What's LambdaThrow
 
-java通过lambda方式抛出异常，可配合Swagger的@ApiModelProperty进行参数校验，嗯真香。
+java throws exceptions using lambda,Parameter verification can be performed with Swagger's @APIModelProperty,really sweet.
 
-### 环境要求
+### Env Require
 
 jdk1.8+
 
 
-### 测试用例
+### Test Case
 
 ```java
     public class ThrowUtilsTest {
